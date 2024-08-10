@@ -46,11 +46,14 @@ console.log(resultado2)
 console.log(resultado3)
 let array1 = [1, 2, 3, 4]
 console.log(array1)
+/*
 let resultado4 = array1[0] * 2
 let resultado5 = array1[1] * 2
 let resultado6 = array1[2] * 2
 let resultado7 = array1[3] * 2
-let array3 = [resultado4, resultado5, resultado6, resultado7]
+*/
+const [resultado4 , resultado5 , resultado6, resultado7] = array1;
+let array3 = [resultado4 * 2, resultado5 * 2, resultado6 * 2, resultado7 * 2]
 console.log(array3)
 
 
