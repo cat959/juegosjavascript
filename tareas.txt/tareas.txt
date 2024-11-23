@@ -1,0 +1,3 @@
+{hacer un boton para que el usuario haga un numero del 1 al 7 ( dias de la semana)
+si saca 8 o mas debe sacar error
+si saca 0 o menos debe sacar error}
